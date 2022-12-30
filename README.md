@@ -1,4 +1,5 @@
-# data_compile_automated
+# Auto data sorting using python sscripting
+
 
 Using streamlit to host this website.
 
